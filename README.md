@@ -1,6 +1,8 @@
 # FlightTicket
 Search for flight ticket and save money
 
+
+1. For customer to type in place name and system automatically associate with its IATA code names
 [IATA Code for Airports]
 https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
 
